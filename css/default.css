@@ -1,7 +1,7 @@
 ﻿body {
   margin: 0;
   padding: 0;
-  background-image: url("/css/anh.png");
+  background-image: url("\css\anh.png");
   font-size: 12px;
   overflow: auto;
   background-repeat: no-repeat;
